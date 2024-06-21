@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 - ✈️ Open to Remote Job Opportunities 🍻
 ![](https://github-readme-stats.vercel.app/api?username=nangenx&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nangenx&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
